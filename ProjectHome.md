@@ -1,0 +1,1 @@
+It estimates TV GRPs needed to deliver equivalent incremental reach of the online campaign by fitting a nonlinear functional form to the TV reach curve and extrapolating the curve. This method can assist advertisers in evaluating the cost effectiveness of their online campaigns compared to TV campaigns.
